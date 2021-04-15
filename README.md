@@ -1,1 +1,1 @@
-# CNN-basic
+# ANN-basic
